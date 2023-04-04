@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/HRDF_CA_POC/FileContentIndex
+/Application/bin/Debug/net6.0
+/Application/obj
+/Domain/bin/Debug/net6.0
+/Domain/obj
+/HRDF_CA_POC/bin/Debug/net6.0
+/HRDF_CA_POC/obj
+/Infrastructure/bin/Debug/net6.0
+/Infrastructure/obj
